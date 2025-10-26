@@ -193,7 +193,3 @@ The company may expect a revenue of R\$ 57,251,574.44. This result may show the 
 * Implement oversampling or subsampling techiniques to improve the model scores.
 
 * Implement the api on the heroku plataform.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
